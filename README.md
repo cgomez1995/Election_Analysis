@@ -8,6 +8,7 @@ The following tasks are included in the completed election audit:
 
 ## Resources
   Python 
+  
   VS Code
   
 ## Challenge Sumary
