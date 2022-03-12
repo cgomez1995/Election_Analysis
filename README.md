@@ -1,20 +1,20 @@
 # Election_Analysis
-## Project Overview
+
+## Resources
+  Python and VS Code
+
+## Overview of Election Audit:
 A Colorado Board of Elections employee requested help in completing an election audit of a recent local congressional election. 
 The following tasks are included in the completed election audit:
   1. The voter turnout for each county
   2. The percentage of votes from each county out of the total count
   3. The county with the highest turnout
 
-## Resources
-  Python 
-  
-  VS Code
-  
+
 ## Challenge Sumary
 
 ### Election Results
-
+#### How many votes were cast in this congressional election?
 Total Votes: 369,711
 
 County Results:
