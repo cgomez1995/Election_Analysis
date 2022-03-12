@@ -49,4 +49,4 @@ Percentage: 73.8%
  
 ### Election-Audit Summary
 
-The magic about working with code is that it can be modified and amended to provide different types of results. 
+The magic about working with code is that it can be modified and amended to provide different types of results. The script in the file can be used to determine the winning candidates, and turn out votes for any county, as long as the data is provided to the analyst for said counties. Two ways that the script can be modied include generating results for states, rather than counties, to see which US states have higher voter turnouts, and or selec which president. Alternitavely the script can also be altered to obtain any voting results, not just for politicians, but also polls for fundraising.
