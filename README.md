@@ -43,6 +43,6 @@ Vote Count: 272,892
 Percentage: 73.8%
  
 Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
-
+ 
 ### Election-Audit Summary
 The magic about working with code is that it can be modified and amended to provide different types of results. 
